@@ -1,0 +1,2 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+data/PdM_telemetry.csv filter=lfs diff=lfs merge=lfs -text
