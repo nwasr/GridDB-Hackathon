@@ -2,9 +2,6 @@
 
 Unexpected machine failures cause downtime and cost. We use real-time sensor telemetry to detect anomalies and predict failures before they happen.
 
-Perfect. Below is a **clean, concise README section** you can paste directly.
-It’s **judge-friendly**, not overcomplicated, and clearly links **EDA → analytics → business value**.
-
 ## Dataset Used
 
 We use the **Microsoft Azure Predictive Maintenance Telemetry Dataset**, which contains time-series sensor data collected from industrial machines.
