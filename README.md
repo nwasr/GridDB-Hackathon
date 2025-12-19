@@ -43,7 +43,6 @@ To avoid false alerts, anomalies are triggered only when thresholds are exceeded
 - **Warning Alert:** Early indication of abnormal behavior
 - **Critical Alert:** Maintenance required to prevent failure
 
-Got it. Straight, no fluff. Here’s a **tight, no-bullshit README continuation** that matches **exactly what you’ve done**, nothing extra, no hype. You can paste this as-is.
 
 ## Implementation
 
