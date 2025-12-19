@@ -122,9 +122,16 @@ GridDB-Hackathon/
 
 ---
 
-## Screenshots (To Be Added)
+## Screenshots
 
-- `[ARCHITECTURE DIAGRAM IMAGE]`
-- `[GRIDDB DATA VERIFICATION IMAGE]`
-- `[STREAMLIT DASHBOARD IMAGE]`
-- `[CRITICAL ALERT SCREENSHOT]`
+### Real-Time Predictive Maintenance Dashboard
+Live Streamlit dashboard showing machine vibration trends with warning and critical thresholds.
+
+![Live Dashboard - Critical State](images/live_dashboard_critical.png)
+![Live Dashboard - Normal State](images/live_dashboard_normal.png)
+
+### GridDB Telemetry Verification
+Sensor data successfully ingested and queried from GridDB TimeSeries container.
+
+![GridDB Data Verification](images/griddb_data_verify.png)
+
